@@ -10,7 +10,7 @@ This repository contains the task that were completed by me during the internshi
 
 In this internship I was able to complete two tasks namely:
 
-[<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-146-569237.png>](https://github.com/dhanno03/The-Sparks-Foundation-Intern-Tasks-April-21/blob/main/Task%20-Prediction%20using%20Supervised%20ML/task-prediction-using-supervised-ml-april-21.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-146-569237.png>](https://github.com/dhanno03/The-Sparks-Foundation-Intern-Tasks--April-21/blob/main/Task%20-Prediction%20using%20Supervised%20ML/task-prediction-using-supervised-ml-april-21.ipynb)
 [<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/youtube-264-675860.png>](https://www.youtube.com/watch?v=nSrtffb9ic8)
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
@@ -22,7 +22,7 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-[<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-146-569237.png>](https://github.com/dhanno03/The-Sparks-Foundation-Intern-Tasks-April-21/blob/main/Task%20-%20Prediction%20using%20Unsupervised%20ML/task-prediction-using-unsupervised-ml-april-21.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/github-146-569237.png>](https://github.com/dhanno03/The-Sparks-Foundation-Intern-Tasks--April-21/blob/main/Task%20-%20Prediction%20using%20Unsupervised%20ML/task-prediction-using-unsupervised-ml-april-21.ipynb)
 [<img align = right height = 50 width = 50 src = https://cdn.iconscout.com/icon/free/png-64/youtube-264-675860.png>](https://www.youtube.com/watch?v=7oDrwBHpk1Q)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
